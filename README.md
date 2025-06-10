@@ -1,4 +1,4 @@
-# 🎧 Spotify Reviews Sentiment Analysis using NLP
+# 🎧 Spotify Reviews Sentiment Analysis using Transformers
 
 This project explores sentiment analysis on Spotify user reviews using Natural Language Processing (NLP). The primary goal was to compare traditional lexicon-based methods with modern transformer-based approaches.
 
